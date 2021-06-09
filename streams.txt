@@ -1,0 +1,2 @@
+rtsp://admin:sy123456@192.168.77.179//Streaming/Channels/1
+rtsp://admin:sy123456@192.168.77.105//Streaming/Channels/1
